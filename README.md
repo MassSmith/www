@@ -401,7 +401,8 @@
 <h1><strong><a href="https://is.gd/srvxMx" rel="nofollow">退出中共，远离罪恶，大瘟疫前的自救！点击这里</a></strong></h1><br>
 <br>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
-<img src="/master/t/03.jpg"><br>
+![](/master/t/03.jpg)
+ <img src="/master/t/03.jpg"><br>
 <img src="https://raw.githubusercontent.com/fyaq233/www/master/t/04.jpg"><br>
 <img src="https://raw.githubusercontent.com/fyaq233/www/master/t/06.jpg"><br>
 <img src="https://raw.githubusercontent.com/fyaq233/www/master/t/07.jpg"><br>
